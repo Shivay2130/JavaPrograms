@@ -1,1 +1,3 @@
 B.txt
+
+git add -all
