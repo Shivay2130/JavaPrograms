@@ -5,3 +5,4 @@ Q: what's your name?shivam
 git reset --hard
 
 
+check branch push
