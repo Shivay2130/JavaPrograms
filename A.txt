@@ -6,3 +6,5 @@ git reset --hard
 
 
 check branch push
+
+check all push
