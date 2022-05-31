@@ -4,7 +4,13 @@ Q: what's your name?shivam
 
 git reset --hard
 
-
+3) chunk
 check branch push
 
+2) chunk
 check --all push
+
+
+check chunk restore
+
+1) chunk
